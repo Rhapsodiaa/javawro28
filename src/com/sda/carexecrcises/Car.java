@@ -11,7 +11,7 @@ public class Car extends Object{
         this.brand = brandOfNewCar;
     }
 
-    public Car(String brandOfNewCar, double power, String fuelType) {
+    public Car(String brandOfNewCar, double power, FuelType fuelType) {
 
         this.brand = brandOfNewCar;
         this.range = 0;

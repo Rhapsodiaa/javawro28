@@ -5,7 +5,7 @@ public class CompositionDemo {
         Car carWithWheels = new Car(
                 "Skoda",
                 100,
-                "LPG"
+                FuelType.LPG
         );
 
         Wheel[] wheels = carWithWheels.getWheels();
