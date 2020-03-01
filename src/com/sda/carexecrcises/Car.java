@@ -43,4 +43,12 @@ public class Car extends Object{
     public Wheel[] getWheels() {
         return wheels;
     }
+
+    public Engine getEngine() {
+        return engine;
+    }
+
+    public int getRange() {
+        return range;
+    }
 }

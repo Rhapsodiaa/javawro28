@@ -4,9 +4,10 @@ import java.util.Arrays;
 
 public class Car implements Comparable<Car>{
 
-    private Lights lights;
+    private Lights lights = null;
     private Engine engine;
     private Wheel[] wheels = new Wheel[4];
+    private int x;
 
     public Car() {
         for (int i = 0; i < wheels.length; i++) {

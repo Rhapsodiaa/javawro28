@@ -4,6 +4,7 @@ import com.sda.staticdemo.CanNotDivideByNegativeNumberException;
 
 import java.io.IOException;
 import java.util.Dictionary;
+import java.util.Optional;
 
 public class Calculator {
 
@@ -35,6 +36,15 @@ public class Calculator {
         return numerator / denumerator;
     }
 
+    public static Optional<Integer> divide2(int numerator, int denumerator){
+        if(denumerator == 0){
+            return Optional.empty();
+        }
+
+        int result = numerator / denumerator;
+        return Optional.of(result);
+    }
+
 
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
@@ -47,6 +57,13 @@ public class Calculator {
             e.printStackTrace();
         }
         System.out.println(divide);
+
+        Optional<Integer> integerBox = divide2(1, 0);
+
+        boolean present = integerBox.isPresent();
+
+        Integer integer = integerBox.orElse(0);
+
 
 
     }
