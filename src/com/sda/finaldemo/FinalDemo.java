@@ -1,16 +1,21 @@
 package com.sda.finaldemo;
 
+import com.sda.carexecrcises.Car;
+
 public class FinalDemo {
 
-    final String finalString = "This can not be changed";
+    final Car car;
 
-    private int doSomething(final int input){
-        //input = 10;// niemożna przypisać do parametruu final
+    public FinalDemo(String car) {
+        this.car = new Car("Skoda");
 
-        final int x = 100;
-        //x=200; nie można jeszcze raz przypisać do finalnej zmiennej
+        this.car.reportRange();
+        this.car.drive(10);
+        this.car.reportRange();
 
-        return 0;
+
     }
+
+
 
 }

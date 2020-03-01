@@ -1,5 +1,10 @@
 package com.sda;
 
+import com.sda.staticdemo.CanNotDivideByNegativeNumberException;
+
+import java.io.IOException;
+import java.util.Dictionary;
+
 public class Calculator {
 
     public int add(int a, int b) {
@@ -20,9 +25,12 @@ public class Calculator {
         return sum;
     }
 
-    public int divide(int numerator, int denumerator) throws IllegalArgumentException {
+    public int divide(int numerator, int denumerator) throws IOException {
         if (denumerator == 0) {
-            throw new IllegalArgumentException("Nie można dzielić przez 0");
+            throw new IOException("Nie można dzielić przez 0");
+        }
+        if (denumerator < 0) {
+            throw new CanNotDivideByNegativeNumberException("Nie dzilmy przez ujemne");
         }
         return numerator / denumerator;
     }
@@ -30,25 +38,15 @@ public class Calculator {
 
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
-        calculator.add(1, 2);
-        calculator.add(1, 2, 3);
-        calculator.add("1", "2");
 
 
+        int divide = 0;
         try {
-            //ten blok zawsze, jeżli w tym bloku będzie wyjątek, to sterowanie zostanie
-            //przekazane do bloku catch
-        } catch (IllegalArgumentException e) {
-            //to jest blok, który będzie się wykonywał jak w bloku try poleci wyjątek
-        } finally {
-            //ten blok wykona się zawsze, nawet, jeżeli w try było użyte słowo kluczowe return
+            divide = calculator.divide(10, 0);
+        } catch (IOException e) {
+            e.printStackTrace();
         }
-
-        try {
-            calculator.divide(10, 0);
-        } catch (IllegalArgumentException e) {
-            System.out.println("Nie możesz dzielić przez 0");
-        }
+        System.out.println(divide);
 
 
     }

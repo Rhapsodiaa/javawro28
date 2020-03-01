@@ -2,18 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ea341e6-abaa-49be-b0e6-a76aef1649d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sda/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/animals/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/animals/FastRunningAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/animals/Gepard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/animals/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/animals/RunnigAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/animals/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/staticdemo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/staticdemo/StaticDemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sda/staticdemo/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/exercises/ByCoreComputerComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/exercises/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/exercises/ComputerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/exercises/MapsExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/exercises/QueueExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/generics/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/nested/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/staticdemo/CanNotDivideByNegativeNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/threads/balance/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/threads/balance/BalanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/threads/creatingthreads/BraveRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/threads/creatingthreads/HappyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sda/threads/creatingthreads/ThreadsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programowanie2/com/sda/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programowanie2/com/sda/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programowanie2/com/sda/StackOfMethodsCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programowanie2/com/sda/StackOfMethodsCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programowanie2/com/sda/car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programowanie2/com/sda/car/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programowanie2/com/sda/carexecrcises/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programowanie2/com/sda/carexecrcises/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programowanie2/com/sda/collections/CollectionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programowanie2/com/sda/collections/CollectionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programowanie2/com/sda/finaldemo/FinalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programowanie2/com/sda/finaldemo/FinalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programowanie2/com/sda/generics/BoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programowanie2/com/sda/generics/BoxDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programowanie2/com/sda/generics/GenericBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programowanie2/com/sda/generics/GenericBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programowanie2/com/sda/generics/SimpleBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programowanie2/com/sda/generics/SimpleBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/StackOfMethodsCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/StackOfMethodsCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/carexecrcises/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/carexecrcises/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/collections/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/collections/CollectionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/finaldemo/FinalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/finaldemo/FinalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/generics/BoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/generics/BoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/generics/GenericBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/generics/GenericBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sda/generics/SimpleBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sda/generics/SimpleBox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +79,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -68,13 +89,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.StaticDemoMain">
-    <configuration name="CafeMachineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.interfacedemo.CafeMachineDemo" />
+  <component name="RunManager" selected="Application.ComputerMain">
+    <configuration name="BalanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.threads.balance.BalanceTest" />
       <module name="programowanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.interfacedemo.*" />
+          <option name="PATTERN" value="com.sda.threads.balance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CafeMachineMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.interfacedemo.CafeMachineMain" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.Calculator" />
       <module name="programowanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.interfacedemo.*" />
+          <option name="PATTERN" value="com.sda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.enumdemo.EnumDemo" />
+    <configuration name="ComputerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.exercises.ComputerMain" />
       <module name="programowanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.enumdemo.*" />
+          <option name="PATTERN" value="com.sda.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.publicationexercises.Person" />
+    <configuration name="ThreadsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sda.threads.creatingthreads.ThreadsDemo" />
       <module name="programowanie2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.publicationexercises.*" />
+          <option name="PATTERN" value="com.sda.threads.creatingthreads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,33 +142,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticDemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sda.staticdemo.StaticDemoMain" />
-      <module name="programowanie2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sda.staticdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EnumDemo" />
-      <item itemvalue="Application.CafeMachineDemo" />
-      <item itemvalue="Application.CafeMachineMain" />
-      <item itemvalue="Application.Person" />
-      <item itemvalue="Application.StaticDemoMain" />
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Java Scratch.Scratch" />
+      <item itemvalue="Application.ThreadsDemo" />
+      <item itemvalue="Application.BalanceTest" />
+      <item itemvalue="Application.ComputerMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StaticDemoMain" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.CafeMachineMain" />
-        <item itemvalue="Application.CafeMachineDemo" />
-        <item itemvalue="Application.EnumDemo" />
+        <item itemvalue="Application.ComputerMain" />
+        <item itemvalue="Application.BalanceTest" />
+        <item itemvalue="Application.ThreadsDemo" />
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +192,10 @@
       <workItem from="1582370251069" duration="232000" />
       <workItem from="1582370497899" duration="12582000" />
       <workItem from="1582444842865" duration="4598000" />
-      <workItem from="1582452751376" duration="7792000" />
+      <workItem from="1582452751376" duration="13426000" />
+      <workItem from="1582473475175" duration="30000" />
+      <workItem from="1582975306544" duration="9958000" />
+      <workItem from="1583025569860" duration="8862000" />
     </task>
     <task id="LOCAL-00001" summary="dodanie enuma">
       <created>1582383091514</created>
@@ -193,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582454785787</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" static method">
+      <created>1582461203531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582461203531</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +240,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dodanie enuma" />
     <MESSAGE value="dodanie kaffe machine - interfejsy" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodanie kaffe machine - interfejsy" />
+    <MESSAGE value=" static method" />
+    <option name="LAST_COMMIT_MESSAGE" value=" static method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="70" y="0" width="1602" height="1054" key="#Notifications.inPresentationMode" timestamp="1582370223999">
@@ -226,15 +252,15 @@
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
     <state x="298" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582151474842" />
-    <state x="648" y="261" width="531" height="566" key="#com.intellij.ide.util.MemberChooser" timestamp="1582330652691">
+    <state x="648" y="261" width="531" height="566" key="#com.intellij.ide.util.MemberChooser" timestamp="1583030217309">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state x="678" y="0" width="830" height="1054" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" timestamp="1582460664417">
-      <screen x="0" y="0" width="1920" height="1054" />
+    <state x="593" y="0" width="1007" height="1054" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" timestamp="1583051149757">
+      <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state x="678" y="0" width="830" height="1054" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582460664417" />
-    <state x="593" y="0" width="726" height="1054" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582367977174" />
-    <state x="648" y="261" width="531" height="566" key="#com.intellij.ide.util.MemberChooser/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582330652691" />
+    <state x="678" y="0" width="1007" height="1054" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582986262588" />
+    <state x="593" y="0" width="726" height="1054" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583051149757" />
+    <state x="648" y="261" width="531" height="566" key="#com.intellij.ide.util.MemberChooser/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583030217309" />
     <state x="593" y="30" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.inPresentationMode" timestamp="1582362020371">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
@@ -242,11 +268,15 @@
     <state x="597" y="67" width="478" height="955" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582243295154">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state x="597" y="67" width="478" height="955" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582243295154" />
-    <state x="180" y="0" width="1552" height="1054" key="CommitChangelistDialog2.inPresentationMode" timestamp="1582461198410">
+    <state x="492" y="0" width="928" height="1054" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.inPresentationMode" timestamp="1582461896393">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state x="180" y="0" width="1552" height="1054" key="CommitChangelistDialog2.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582461198410" />
+    <state x="492" y="0" width="928" height="1054" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582461896393" />
+    <state x="597" y="67" width="478" height="955" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582243295154" />
+    <state x="180" y="0" width="1552" height="1054" key="CommitChangelistDialog2.inPresentationMode" timestamp="1582461203463">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="180" y="0" width="1552" height="1054" key="CommitChangelistDialog2.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582461203463" />
     <state x="183" y="90" width="1538" height="877" key="DiffContextDialog.inPresentationMode" timestamp="1582383079094">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
@@ -255,78 +285,78 @@
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
     <state x="619" y="302" width="426" height="488" key="FileChooserDialogImpl/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582151633229" />
-    <state width="1638" height="269" key="GridCell.Tab.0.bottom" timestamp="1582330204631">
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom" timestamp="1583050035306">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state width="1920" height="352" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1582461098581">
-      <screen x="0" y="0" width="1920" height="1054" />
-    </state>
-    <state width="1920" height="352" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582461098581" />
-    <state width="1920" height="375" key="GridCell.Tab.0.bottom.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582370231299" />
-    <state width="1638" height="269" key="GridCell.Tab.0.bottom/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582330204631" />
-    <state width="1638" height="269" key="GridCell.Tab.0.center" timestamp="1582330204631">
+    <state width="1638" height="340" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1583051916666">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state width="1920" height="352" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1582461098581">
-      <screen x="0" y="0" width="1920" height="1054" />
-    </state>
-    <state width="1920" height="352" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582461098581" />
-    <state width="1920" height="375" key="GridCell.Tab.0.center.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582370231299" />
-    <state width="1638" height="269" key="GridCell.Tab.0.center/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582330204631" />
-    <state width="1638" height="269" key="GridCell.Tab.0.left" timestamp="1582330204630">
+    <state width="1920" height="385" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582986046212" />
+    <state width="1638" height="340" key="GridCell.Tab.0.bottom.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583051916666" />
+    <state width="1878" height="462" key="GridCell.Tab.0.bottom/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583050035306" />
+    <state width="1878" height="462" key="GridCell.Tab.0.center" timestamp="1583050035306">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state width="1920" height="352" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1582461098580">
-      <screen x="0" y="0" width="1920" height="1054" />
-    </state>
-    <state width="1920" height="352" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582461098580" />
-    <state width="1920" height="375" key="GridCell.Tab.0.left.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582370231299" />
-    <state width="1638" height="269" key="GridCell.Tab.0.left/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582330204630" />
-    <state width="1638" height="269" key="GridCell.Tab.0.right" timestamp="1582330204631">
+    <state width="1638" height="340" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1583051916666">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state width="1920" height="352" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1582461098581">
-      <screen x="0" y="0" width="1920" height="1054" />
-    </state>
-    <state width="1920" height="352" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582461098581" />
-    <state width="1920" height="375" key="GridCell.Tab.0.right.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582370231299" />
-    <state width="1638" height="269" key="GridCell.Tab.0.right/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582330204631" />
-    <state width="1638" height="332" key="GridCell.Tab.1.bottom" timestamp="1582321445725">
+    <state width="1920" height="385" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582986046212" />
+    <state width="1638" height="340" key="GridCell.Tab.0.center.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583051916666" />
+    <state width="1878" height="462" key="GridCell.Tab.0.center/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583050035306" />
+    <state width="1878" height="462" key="GridCell.Tab.0.left" timestamp="1583050035306">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state width="1920" height="375" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1582459579036">
+    <state width="1638" height="340" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1583051916665">
+      <screen x="0" y="30" width="1680" height="1050" />
+    </state>
+    <state width="1920" height="385" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582986046212" />
+    <state width="1638" height="340" key="GridCell.Tab.0.left.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583051916665" />
+    <state width="1878" height="462" key="GridCell.Tab.0.left/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583050035306" />
+    <state width="1878" height="462" key="GridCell.Tab.0.right" timestamp="1583050035306">
+      <screen x="0" y="30" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="340" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1583051916666">
+      <screen x="0" y="30" width="1680" height="1050" />
+    </state>
+    <state width="1920" height="385" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582986046212" />
+    <state width="1638" height="340" key="GridCell.Tab.0.right.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583051916666" />
+    <state width="1878" height="462" key="GridCell.Tab.0.right/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583050035306" />
+    <state width="1878" height="462" key="GridCell.Tab.1.bottom" timestamp="1583050035307">
+      <screen x="0" y="30" width="1680" height="1050" />
+    </state>
+    <state width="1920" height="531" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1582984957381">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state width="1920" height="375" key="GridCell.Tab.1.bottom.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582459579036" />
+    <state width="1920" height="531" key="GridCell.Tab.1.bottom.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582984957381" />
     <state width="1920" height="375" key="GridCell.Tab.1.bottom.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582370231300" />
-    <state width="1638" height="332" key="GridCell.Tab.1.bottom/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582321445725" />
-    <state width="1638" height="332" key="GridCell.Tab.1.center" timestamp="1582321445725">
+    <state width="1878" height="462" key="GridCell.Tab.1.bottom/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583050035307" />
+    <state width="1878" height="462" key="GridCell.Tab.1.center" timestamp="1583050035306">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state width="1920" height="375" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1582459579036">
+    <state width="1920" height="531" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1582984957381">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state width="1920" height="375" key="GridCell.Tab.1.center.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582459579036" />
+    <state width="1920" height="531" key="GridCell.Tab.1.center.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582984957381" />
     <state width="1920" height="375" key="GridCell.Tab.1.center.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582370231300" />
-    <state width="1638" height="332" key="GridCell.Tab.1.center/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582321445725" />
-    <state width="1638" height="332" key="GridCell.Tab.1.left" timestamp="1582321445725">
+    <state width="1878" height="462" key="GridCell.Tab.1.center/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583050035306" />
+    <state width="1878" height="462" key="GridCell.Tab.1.left" timestamp="1583050035306">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state width="1920" height="375" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1582459579036">
+    <state width="1920" height="531" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1582984957381">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state width="1920" height="375" key="GridCell.Tab.1.left.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582459579036" />
+    <state width="1920" height="531" key="GridCell.Tab.1.left.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582984957381" />
     <state width="1920" height="375" key="GridCell.Tab.1.left.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582370231299" />
-    <state width="1638" height="332" key="GridCell.Tab.1.left/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582321445725" />
-    <state width="1638" height="332" key="GridCell.Tab.1.right" timestamp="1582321445725">
+    <state width="1878" height="462" key="GridCell.Tab.1.left/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583050035306" />
+    <state width="1878" height="462" key="GridCell.Tab.1.right" timestamp="1583050035306">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state width="1920" height="375" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1582459579036">
+    <state width="1920" height="531" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1582984957381">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state width="1920" height="375" key="GridCell.Tab.1.right.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582459579036" />
+    <state width="1920" height="531" key="GridCell.Tab.1.right.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582984957381" />
     <state width="1920" height="375" key="GridCell.Tab.1.right.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582370231300" />
-    <state width="1638" height="332" key="GridCell.Tab.1.right/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582321445725" />
+    <state width="1878" height="462" key="GridCell.Tab.1.right/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583050035306" />
     <state x="369" y="90" width="1026" height="849" key="SettingsEditor" timestamp="1582370530419">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
@@ -340,22 +370,33 @@
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
     <state width="828" height="648" key="SwitcherDM.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582382652807" />
-    <state x="155" y="14" width="1602" height="1030" key="Vcs.Push.Dialog.v2.inPresentationMode" timestamp="1582454788458">
+    <state x="155" y="14" width="1602" height="1030" key="Vcs.Push.Dialog.v2.inPresentationMode" timestamp="1582461206003">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
-    <state x="155" y="14" width="1602" height="1030" key="Vcs.Push.Dialog.v2.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582454788458" />
-    <state x="634" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1582452751079">
-      <screen x="0" y="0" width="1920" height="1054" />
+    <state x="155" y="14" width="1602" height="1030" key="Vcs.Push.Dialog.v2.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582461206003" />
+    <state x="555" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1583025652547">
+      <screen x="0" y="30" width="1680" height="1050" />
     </state>
     <state x="634" y="355" key="com.intellij.ide.util.TipDialog/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582452751079" />
-    <state x="551" y="372" width="809" height="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2.inPresentationMode" timestamp="1582454765539">
-      <screen x="0" y="0" width="1920" height="1054" />
+    <state x="634" y="355" key="com.intellij.ide.util.TipDialog/0.0.1920.1054@0.0.1920.1054" timestamp="1582473477379" />
+    <state x="555" y="384" key="com.intellij.ide.util.TipDialog/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583025652547" />
+    <state x="482" y="401" width="809" height="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2.inPresentationMode" timestamp="1583051200858">
+      <screen x="0" y="30" width="1680" height="1050" />
     </state>
     <state x="551" y="372" width="809" height="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582454765539" />
+    <state x="482" y="401" width="809" height="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583051200858" />
     <state x="443" y="80" width="1026" height="892" key="extract.method.dialog.inPresentationMode" timestamp="1582453372970">
       <screen x="0" y="0" width="1920" height="1054" />
     </state>
     <state x="443" y="80" width="1026" height="892" key="extract.method.dialog.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582453372970" />
+    <state x="296" y="3" width="1328" height="1042" key="find.popup.inPresentationMode" timestamp="1582985213969">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="296" y="3" width="1328" height="1042" key="find.popup.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582985213969" />
+    <state x="285" y="151" width="1341" height="756" key="new project wizard" timestamp="1582473502728">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="285" y="151" width="1341" height="756" key="new project wizard/0.0.1920.1054@0.0.1920.1054" timestamp="1582473502728" />
     <state x="503" y="247" key="run.anything.popup" timestamp="1582153351323">
       <screen x="0" y="30" width="1680" height="1050" />
     </state>
@@ -364,15 +405,26 @@
     </state>
     <state x="287" y="223" key="run.anything.popup.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582450726225" />
     <state x="503" y="247" key="run.anything.popup/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582153351323" />
-    <state x="712" y="203" width="768" height="681" key="search.everywhere.popup" timestamp="1582460778203">
-      <screen x="0" y="0" width="1920" height="1054" />
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1583050044181">
+      <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state x="317" y="0" width="1558" height="1050" key="search.everywhere.popup.inPresentationMode" timestamp="1582460857593">
-      <screen x="0" y="0" width="1920" height="1054" />
+    <state x="277" y="30" width="1363" height="1046" key="search.everywhere.popup.inPresentationMode" timestamp="1583051707560">
+      <screen x="0" y="30" width="1680" height="1050" />
     </state>
-    <state x="317" y="0" width="1558" height="1050" key="search.everywhere.popup.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582460857593" />
-    <state x="277" y="30" width="1363" height="1046" key="search.everywhere.popup.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582370228086" />
-    <state x="712" y="203" width="768" height="681" key="search.everywhere.popup/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582460778203" />
-    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1582366596954" />
+    <state x="317" y="0" width="1558" height="1050" key="search.everywhere.popup.inPresentationMode/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582984765647" />
+    <state x="277" y="30" width="1363" height="1046" key="search.everywhere.popup.inPresentationMode/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583051707560" />
+    <state x="712" y="203" width="768" height="681" key="search.everywhere.popup/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1582975318647" />
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup/0.30.1680.1050/1680.0.1920.1080@0.30.1680.1050" timestamp="1583050044181" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sda/StackOfMethodsCall.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -32,7 +32,7 @@ public class Car extends Object{
         this.range = this.range + rangeToAdd;
     }
 
-    protected void reportRange(){
+    public void reportRange(){
         System.out.println(this.brand + " : " +this.range);
     }
 

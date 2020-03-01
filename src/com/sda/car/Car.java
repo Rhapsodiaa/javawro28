@@ -4,8 +4,6 @@ import java.util.Arrays;
 
 public class Car implements Comparable<Car>{
 
-
-
     private Lights lights;
     private Engine engine;
     private Wheel[] wheels = new Wheel[4];

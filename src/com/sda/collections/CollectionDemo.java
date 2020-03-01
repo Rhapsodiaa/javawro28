@@ -1,28 +1,26 @@
 package com.sda.collections;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Iterator;
+import java.util.*;
 
 public class CollectionDemo {
 
     public static void main(String[] args) {
 
+        List<Integer> integers = new ArrayList<>();
+        System.out.println(integers);
 
-        Collection<Integer> someCollection = new ArrayList<>();
-        someCollection.add(1);
-        someCollection.add(2);
-        someCollection.add(3);
+        integers.add(10);
+        System.out.println(integers);
+
+        List<Integer> igratherThan10 = List.of(101, 102);
+        integers.addAll(igratherThan10);
+        System.out.println(integers);
+
+        integers.removeIf(integer -> integer == 101);
+        System.out.println(integers);
 
 
-        for (Integer integer : someCollection) {
-            System.out.println(integer);
-        }
 
-        Iterator<Integer> iterator = someCollection.iterator();
-        while (iterator.hasNext()) {
-            System.out.println(iterator.next());
-        }
     }
 
 }

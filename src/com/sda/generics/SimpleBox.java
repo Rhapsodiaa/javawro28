@@ -1,7 +1,6 @@
 package com.sda.generics;
 
 public class SimpleBox {
-
     private Object objectInside;
 
     public SimpleBox(Object objectInside) {

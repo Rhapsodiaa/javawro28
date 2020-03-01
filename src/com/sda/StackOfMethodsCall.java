@@ -17,8 +17,8 @@ public class StackOfMethodsCall {
 
     public static void method2(){
         System.out.println("Wchodzę do metody 3");
-        method3();
-        System.out.println("Wychodzę z metody 3");
+        return;
+
     }
 
     public static void method3(){

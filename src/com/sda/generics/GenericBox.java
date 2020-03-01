@@ -1,13 +1,13 @@
 package com.sda.generics;
 
-public class GenericBox<T extends Integer> {
-    T objectInsideBox;
+public class GenericBox<OBJ extends Number> {
+    OBJ objectInsideBox;
 
-    public GenericBox(T objectInsideBox) {
+    public GenericBox(OBJ objectInsideBox) {
         this.objectInsideBox = objectInsideBox;
     }
 
-    public T getObjectInsideBox() {
+    public OBJ getObjectInsideBox() {
         return objectInsideBox;
     }
 
